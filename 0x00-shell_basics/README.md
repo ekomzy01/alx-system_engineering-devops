@@ -1,1 +1,1 @@
-pwd print out the current working directory for the root
+ls is used to list out file and directories of the current directory
